@@ -12,4 +12,6 @@ anthology, omnibus, etc.
 
 After the code has finished running, there'll be over 120,000 rows in the generated dataset. 
 
-Running time is several hours on a basic Linux server.    
+Running time is several hours on a basic Linux server.
+
+[The completed dataset is available on Kaggle.](https://www.kaggle.com/capybasilisk/science-fiction-and-fantasy-book-metadata)
