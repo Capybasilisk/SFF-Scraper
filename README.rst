@@ -14,7 +14,7 @@ After the code has finished running, there'll be over 120,000 rows in the genera
 
 Running time is several hours on a basic Linux server.
 
-&nbsp;
+
 
 The completed dataset is available on Kaggle:
 
