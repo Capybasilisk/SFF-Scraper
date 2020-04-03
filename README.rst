@@ -14,4 +14,8 @@ After the code has finished running, there'll be over 120,000 rows in the genera
 
 Running time is several hours on a basic Linux server.
 
-[The completed dataset is available on Kaggle.](https://www.kaggle.com/capybasilisk/science-fiction-and-fantasy-book-metadata)
+&nbsp;
+
+The completed dataset is available on Kaggle:
+
+https://www.kaggle.com/capybasilisk/science-fiction-and-fantasy-book-metadata
