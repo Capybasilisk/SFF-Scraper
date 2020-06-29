@@ -9,10 +9,12 @@
 
     def catalog():
         
-        """Scrapes metadata of science fiction and fantasy literary works 
+        """
+        Scrapes metadata of science fiction and fantasy literary works 
         from The Internet Speculative Fiction Database and stores them in 
         a CSV file. If site structure changes significantly, code may stop 
         functioning properly.
+        
         """
 
         card = 0
